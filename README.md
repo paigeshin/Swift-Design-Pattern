@@ -86,7 +86,7 @@
 
 [Singleton Summary](https://www.notion.so/Singleton-Summary-b202c05c3e5443078dfd10686e3945db)
 
-# Behavior
+# Structural
 
 ### Adapter
 
@@ -174,6 +174,8 @@
 
 [Proxy Summary](https://www.notion.so/Proxy-Summary-edde49a6b33046ed980d1d87f13f2a58)
 
+# Behavior
+
 ### Chain of Responsibility
 
 [Overview Chain of Responsiblity](https://www.notion.so/Overview-Chain-of-Responsiblity-ef549e1d67f24f07a83cd4d5bb7d0584)
@@ -204,4 +206,94 @@
 
 [Interpreter Overview ](https://www.notion.so/Interpreter-Overview-c1586027a6754fdbb5636b01ff2ff24f)
 
-[Lexing - 낱말분석, Practice ](https://www.notion.so/Lexing-Practice-8d2633fb687c4922a3ddf8c5aeaf57a1)
+[Interpreter ](https://www.notion.so/Interpreter-8d2633fb687c4922a3ddf8c5aeaf57a1)
+
+[Summary](https://www.notion.so/Summary-92629489762b42889f61d63ca36b4393)
+
+### Interator
+
+[Iterator overview](https://www.notion.so/Iterator-overview-3da66d924f634d4d9b1ae37d471dbf47)
+
+[IteratorObject ](https://www.notion.so/IteratorObject-0bcfbb5e0f50432f88c2d57fa176388b)
+
+[Array Backed Properties](https://www.notion.so/Array-Backed-Properties-f6ef0df9a524460991195e44667db5cc)
+
+[Iterator Summary ](https://www.notion.so/Iterator-Summary-42479be415504c61921acda2dbfc38ec)
+
+### Mediator
+
+[Mediator Overview](https://www.notion.so/Mediator-Overview-27d12aa601ae457586272ff5f579f93d)
+
+[Chatroom](https://www.notion.so/Chatroom-d4f95b6842484f228a3fe05860d081f3)
+
+[Mediator Summary](https://www.notion.so/Mediator-Summary-cc09668f9d774b098657cf44d82cbd8d)
+
+### Memento
+
+[Memento overview](https://www.notion.so/Memento-overview-1f8f6837eb0746ee9f900f63393d14ef)
+
+[Memento ](https://www.notion.so/Memento-963d28a0a4ae446f9f5bfb3edcec0f63)
+
+[Memento Undo redo](https://www.notion.so/Memento-Undo-redo-0ecd7e2104b642e1a8bfcbfcd0c2817f)
+
+[Memento Summary ](https://www.notion.so/Memento-Summary-b30d131290f74bc1a7d40b10c042951d)
+
+### Null Object
+
+[Null Object overview](https://www.notion.so/Null-Object-overview-04ee1b3c5a02427fb4c96887749706ff)
+
+[Null Object ](https://www.notion.so/Null-Object-d96dd31231df40cea151bbb77c206612)
+
+[Null Object Summary](https://www.notion.so/Null-Object-Summary-d7fa02112aaa4980ba852ea09d51afbd)
+
+### Observer
+
+[Observer Overview](https://www.notion.so/Observer-Overview-f157af30db0242a9a1537cef230f388d)
+
+[Events](https://www.notion.so/Events-83239a98215142ada1c23844146aac30)
+
+[Property Observers](https://www.notion.so/Property-Observers-a25d270dbe2e4e6880aecdc6be3a94a4)
+
+[Observer Summary](https://www.notion.so/Observer-Summary-0c06768b79224ed9b83581c74097b071)
+
+### State
+
+[State Overview](https://www.notion.so/State-Overview-288b9134b8a24cb798fc5d9bcdd601be)
+
+[State](https://www.notion.so/State-4a3538ca585042f0a4aade7afebe702b)
+
+[State Summary](https://www.notion.so/State-Summary-c9bcf2befd6f45b0ad39646815a8d5e8)
+
+### Strategy
+
+[Strategy Overview](https://www.notion.so/Strategy-Overview-28586561362d4d219278903ad442d828)
+
+[Dynamic Strategy](https://www.notion.so/Dynamic-Strategy-00b57d42e5a541e8be8959248da68bf9)
+
+[Static Strategy](https://www.notion.so/Static-Strategy-fd0e3b4bf51a41d288b502c076a73532)
+
+[Strategy Summary](https://www.notion.so/Strategy-Summary-8415d1df898f4423a55f8a7ae3e98286)
+
+### Template Method
+
+[Template Method Overview ](https://www.notion.so/Template-Method-Overview-9d52901627eb41668877608bbd6bc87b)
+
+[Template Method](https://www.notion.so/Template-Method-2edb8432f9cd40f883239bd19b94e408)
+
+[Template Method Summary](https://www.notion.so/Template-Method-Summary-cc16c11cbd674b919d109b9d8e218350)
+
+### Visitor
+
+[Visitor ](https://www.notion.so/Visitor-70899e1e308d4982b9cd5c5afae9935d)
+
+[Intrusive Expressin Printing](https://www.notion.so/Intrusive-Expressin-Printing-f2d525bf3d5748aca1e47adc1c5aed66)
+
+[Reflection-Based Printing](https://www.notion.so/Reflection-Based-Printing-e18ad8979aa94f889d864795fd4daf19)
+
+[Classic Visitor](https://www.notion.so/Classic-Visitor-a5e0596d9cf6424096b0366efbac6556)
+
+[Summary](https://www.notion.so/Summary-205482dd657749c1beaf2fac105d3555)
+
+### Summary
+
+[Summary](https://www.notion.so/Summary-790dd03b5dff4db9bba7dba97dff078a)
